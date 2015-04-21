@@ -1,0 +1,1 @@
+I write in a lot of different code. Some of it are scripts, some of it is Powershell. There will be Java eventually, but mostly in the form of mapreduce programs.
